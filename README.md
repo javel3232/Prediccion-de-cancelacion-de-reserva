@@ -8,9 +8,15 @@ Jagler David Velasquez Velasquez 1069500853 Ing. de sistemas
 
 https://www.kaggle.com/competitions/playground-series-s3e7/data
 
-# Video
+## Video
 
 [Video Segunda Entrega](https://youtu.be/ounR_052aro)
+
+# Entrega Final
+
+## Video
+
+[Video Entrega Final](https://youtu.be/zUiXuPY7RkM)
 
 ## Exploración y procesado de datos
 
