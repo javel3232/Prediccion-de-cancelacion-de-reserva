@@ -10,4 +10,4 @@ https://www.kaggle.com/competitions/playground-series-s3e7/data
 
 # Video
 
-[Video Segunda Entrega] (https://youtu.be/ounR_052aro)
+[Video Segunda Entrega](https://youtu.be/ounR_052aro)
